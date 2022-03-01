@@ -1,5 +1,5 @@
 # EnerjiSA Enerji Veri Maratonu | TRAI x Coderspace Yarışması
-## Production_Estimation_of_Solar_Power_Plants
+## Production Estimation of Solar Power Plants
 
 Bu projedeki amaç, lisanssız güneş enerjisi santrallerinin üretim miktarlarını saatlik bazda tahmin edilmesidir. Öncelikle Veri Keşfi yapılacaktır. Başarı metriği RMSE(Root Mean Square Error) olarak belirlenmiştir.
 
