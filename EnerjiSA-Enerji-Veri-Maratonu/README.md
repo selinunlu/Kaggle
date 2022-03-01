@@ -1,6 +1,8 @@
 # EnerjiSA Enerji Veri Maratonu | TRAI x Coderspace Yarışması
 ## Production Estimation of Solar Power Plants
 
+https://www.kaggle.com/c/enerjisa-enerji-veri-maratonu yarışmasındaki veri seti kullanıldı.
+
 Bu projedeki amaç, lisanssız güneş enerjisi santrallerinin üretim miktarlarını saatlik bazda tahmin edilmesidir. Öncelikle Veri Keşfi yapılacaktır. Başarı metriği RMSE(Root Mean Square Error) olarak belirlenmiştir.
 
 Tahmin edilmesi istenen tarih aralığı: `01.12.2021 – 31.12.2021` 
